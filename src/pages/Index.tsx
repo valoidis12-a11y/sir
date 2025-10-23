@@ -51,7 +51,7 @@ const Index = () => {
                   </div>
                 </div>
                 <Button size="lg" className="text-lg px-8" asChild>
-                  <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://calendly.com/valoidis12" target="_blank" rel="noopener noreferrer">
                     <Calendar className="mr-2 h-5 w-5" />
                     Book Your Meeting on Calendly
                   </a>
